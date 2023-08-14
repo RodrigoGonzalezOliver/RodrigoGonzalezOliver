@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">Me apasiona el aprendizaje constante y la implementación de soluciones tecnológicas en la vida<br>cotidiana, así como el crecimiento de las compañías mediante la digitalización de sus procesos.<br><br>📚 Actualmente aprendiendo Typescript</p>
+<p align="left">Me apasiona el aprendizaje constante y la implementación de soluciones tecnológicas en la vida<br>cotidiana, así como el crecimiento de las compañías mediante la digitalización de sus procesos.<br><br>📚 Actualmente aprendiendo Typescript
+<a href="https://linkedin.com/in/rodrigogonzalezoliver" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigogonzalezoliver" height="30" width="40" /></a>
+</p>
 
 ###
 
