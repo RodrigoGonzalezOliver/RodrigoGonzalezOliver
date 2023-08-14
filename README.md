@@ -6,8 +6,7 @@
 
 ###
 
-<p align="left">Me apasiona el aprendizaje constante y la implementación de soluciones tecnológicas en la vida<br>cotidiana, así como el crecimiento de las compañías mediante la digitalización de sus procesos.<br><br>📚 Actualmente aprendiendo Typescript
-</p>
+<p align="left">Me apasiona el aprendizaje constante y la implementación de soluciones tecnológicas en la vida<br>cotidiana, así como el crecimiento de las compañías mediante la digitalización de sus procesos.<br><br>📚 Actualmente aprendiendo Typescript</p>
 
 ###
 
@@ -39,16 +38,13 @@
 
 ###
 
-<li>
-<a href="linkedin.com/in/rodrigogonzalezoliver/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: Rodrigo Gonzalez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
-</a>
-</li>
-
-<li>
-<a href="rodrigo.gonzalez.oliver97@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  rodrigo.gonzalez.oliver97-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-</li>
+<div align="left">
+  <a href="rodrigogonzalezoliver" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="rodrigo.gonzalez.oliver97" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 ###
