@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📚 Actualmente aprendiendo Typescript</p>
+<p align="left">Me apasiona el aprendizaje constante y la implementación de soluciones tecnológicas en la vida<br>cotidiana, así como el crecimiento de las compañías mediante la digitalización de sus procesos.<br><br>📚 Actualmente aprendiendo Typescript</p>
 
 ###
 
@@ -39,9 +39,12 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <a href="linkedin.com/in/rodrigogonzalezoliver/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="rodrigo.gonzalez.oliver97@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
