@@ -41,13 +41,13 @@
 
 <li>
 <a href="linkedin.com/in/rodrigogonzalezoliver/" target="_blank">
-<img src="https://img.shields.io/badge/linkedin: darwin hernández-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/linkedin: Rodrigo Gonzalez-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
 <li>
 <a href="rodrigo.gonzalez.oliver97@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  d.hernan1007-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/gmail:  rodrigo.gonzalez.oliver97-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
 
